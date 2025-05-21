@@ -1,0 +1,14 @@
+ToolChainManager/order/0.id=gcc-x86_64-/usr/bin/gcc
+ToolChainManager/order/0.type=org.eclipse.cdt.build.gcc
+ToolChainManager/order/1.id=gcc-arm-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc
+ToolChainManager/order/1.type=org.eclipse.cdt.build.gcc
+ToolChainManager/order/2.id=gcc-arm-/opt/st/stm32cubeclt_1.18.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc
+ToolChainManager/order/2.type=org.eclipse.cdt.build.gcc
+ToolChainManager/order/3.id=gcc-x86_64-/usr/bin/x86_64-redhat-linux-gcc
+ToolChainManager/order/3.type=org.eclipse.cdt.build.gcc
+ToolChainManager/order/4.id=gcc-arm-/usr/bin/arm-none-eabi-gcc
+ToolChainManager/order/4.type=org.eclipse.cdt.build.gcc
+ToolChainManager/order/n=5
+build.all.configs.enabled=false
+build.proj.ref.configs.enabled=false
+eclipse.preferences.version=1

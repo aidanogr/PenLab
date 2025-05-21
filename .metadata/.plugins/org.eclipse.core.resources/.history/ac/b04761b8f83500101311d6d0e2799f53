@@ -1,0 +1,26 @@
+#include "stm32f303xe.h"
+#include "uart.h"
+#include "general_functions.h"
+#include <stdio.h>
+
+
+// Simple blocking delay (not precise, but works)
+void delay(uint32_t count) {
+    while(count--);
+}
+
+
+int main(void) {
+
+	UART2_Init();
+	uart_printf("Hello World");
+	if ((RCC->CFGR & RCC_CFGR_SWS) == RCC_CFGR_SWS_HSI) {
+		GPIOA->IDR;
+	}
+
+
+    BNO085_Init();     // Wake up BNO085
+    while(1) {
+    	print_bno_data();
+    }
+}

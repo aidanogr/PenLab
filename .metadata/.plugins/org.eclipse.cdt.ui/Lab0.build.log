@@ -1,0 +1,6 @@
+23:09:57 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[100%] Built target Lab0
+
+23:09:57 Build Finished. 0 errors, 0 warnings. (took 79ms)
+

@@ -1,0 +1,68 @@
+#include <stdint.h>
+#include "stm32f303xe.h"
+
+// Simple delay function (approximate ms delay)
+void delay_ms(uint32_t ms) {
+    for(uint32_t i = 0; i < ms * 2000; i++) {
+        __asm__("nop");
+    }
+}
+
+void configUart1(void) {
+    // 1. Enable clocks
+    RCC->APB2ENR |= RCC_APB2ENR_USART1EN;
+    RCC->AHBENR |= RCC_AHBENR_GPIOAEN;
+
+    // 2. Configure GPIO pins (PA9=TX, PA10=RX)
+    GPIOA->MODER &= ~(GPIO_MODER_MODER9 | GPIO_MODER_MODER10);
+    GPIOA->MODER |= (2 << GPIO_MODER_MODER9_Pos) | (2 << GPIO_MODER_MODER10_Pos);
+    GPIOA->AFR[1] = (7 << (4*(9-8))) | (7 << (4*(10-8))); // AF7 for USART1
+    GPIOA->OSPEEDR |= (3 << (2*9)) | (3 << (2*10)); // High speed
+
+    // 3. Configure USART
+    USART1->CR1 = 0; // Disable USART first
+
+    // For 8MHz clock, 115200 baud:
+    // 8000000 / 115200 = 69.444
+    // BRR = 69 + (0.444 * 16) = 69 + 7 = 76 (0x4C)
+    USART1->BRR = 0x4C;
+
+    // Enable USART, transmitter and receiver
+    USART1->CR1 |= USART_CR1_UE | USART_CR1_TE | USART_CR1_RE;
+}
+
+uint8_t uart1_recv_timeout(uint32_t timeout_ms) {
+    uint32_t start = SysTick->VAL;
+    while(!(USART1->ISR & USART_ISR_RXNE)) {
+        if((SysTick->VAL - start) >= (timeout_ms * (SystemCoreClock/1000))) {
+            return 0xFF; // Timeout value
+        }
+    }
+    return USART1->RDR;
+}
+
+void bno085_init(void) {
+    // Send software reset command (check BNO085 datasheet for exact sequence)
+    uint8_t reset_cmd[] = {0x00, 0x00, 0x01, 0x00};
+    for(int i = 0; i < 4; i++) {
+        while(!(USART1->ISR & USART_ISR_TXE));
+        USART1->TDR = reset_cmd[i];
+    }
+    delay_ms(100); // Wait for reset
+}
+
+int main(void) {
+    // Configure system clock (assuming 8MHz HSI)
+    SystemCoreClockUpdate();
+
+    configUart1();
+    bno085_init();
+
+    while(1) {
+        uint8_t byte = uart1_recv_timeout(100);
+        if(byte != 0xFF) {
+            // Process received byte
+        }
+        delay_ms(10);
+    }
+}

@@ -1,0 +1,18 @@
+/*
+ * bno0xx.c
+ *
+ *  Created on: May 20, 2025
+ *      Author: billcipher
+ */
+
+#include "bno0xx.h"
+
+
+void initialize_BNO() {
+	UART1_Init();
+}
+void print_bno_data() {
+
+}
+
+

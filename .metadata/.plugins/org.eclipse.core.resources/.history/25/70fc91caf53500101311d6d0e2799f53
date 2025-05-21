@@ -1,0 +1,41 @@
+#include "stm32f303xe.h"
+#include "uart.h"
+#include "general_functions.h"
+
+
+
+// Simple blocking delay (not precise, but works)
+void delay(uint32_t count) {
+    while(count--);
+}
+
+
+// Send a simple command to wake up BNO085 (check datasheet for exact bytes)
+void BNO085_Init(void) {
+    uint8_t wakeup_cmd[] = {0xAA, 0x00, 0x01, 0x00}; // Example header
+    for(int i = 0; i < 4; i++) {
+        UART1_Send(wakeup_cmd[i]);
+    }
+    delay(100000); // Short delay
+}
+
+int main(void) {
+
+	UART2_Init();
+	UART2_SendString("Hello World");
+	if ((RCC->CFGR & RCC_CFGR_SWS) == RCC_CFGR_SWS_HSI) {
+		GPIOA->IDR;
+	}
+    UART1_Init();      // Initialize UART
+    BNO085_Init();     // Wake up BNO085
+
+    uint8_t bno_data[256] = {0};
+    uint32_t data_index = 0;
+    bno_data[0]++;
+    while(1) {
+        if(USART1->ISR & USART_ISR_RXNE) {
+            bno_data[data_index++] = UART1_Receive();
+            if(data_index >= 256) data_index = 0; // Prevent overflow
+        }
+    }
+}

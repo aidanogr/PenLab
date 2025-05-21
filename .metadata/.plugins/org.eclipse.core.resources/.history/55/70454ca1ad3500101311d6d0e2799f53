@@ -1,0 +1,16 @@
+/*
+ * uart.h
+ *
+ *  Created on: May 20, 2025
+ *      Author: billcipher
+ */
+
+#ifndef INCLUDES_SOURCEHEADERS_UART_H_
+#define INCLUDES_SOURCEHEADERS_UART_H_
+
+void UART1_Init(void);
+void UART1_Send(uint8_t data);
+uint8_t UART1_Receive(void);
+void UART1_SendString(char *str);
+
+#endif /* INCLUDES_SOURCEHEADERS_UART_H_ */

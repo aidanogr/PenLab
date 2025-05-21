@@ -1,0 +1,6 @@
+default=ARM
+eclipse.preferences.version=1
+local.format=1
+local/0/location=/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin
+local/0/name=ARM
+local/0/prefix=arm-none-eabi-

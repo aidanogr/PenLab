@@ -1,0 +1,19 @@
+/*
+ * bno0xx.h
+ *
+ *  Created on: May 20, 2025
+ *      Author: billcipher
+ */
+
+#ifndef INCLUDES_SOURCEHEADERS_BNO0XX_H_
+#define INCLUDES_SOURCEHEADERS_BNO0XX_H_
+
+
+#include "general_functions.h"
+#include <stdio.h>
+
+void initialize_BNO();
+void print_bno_data();
+
+
+#endif /* INCLUDES_SOURCEHEADERS_BNO0XX_H_ */

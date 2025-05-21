@@ -1,0 +1,22 @@
+/*
+ * bno0xx.c
+ *
+ *  Created on: May 20, 2025
+ *      Author: billcipher
+ */
+
+#include "bno0xx.h"
+
+uint8_t bno_data = 0;
+char printBuffer[20];
+
+void initialize_BNO_UART_RVC() {
+	UART1_Init();
+}
+void print_bno_data() {
+	bno_data = UART1_Receive();
+	sprintf(printBuffer, "%u \n\r", bno_data);
+	uart_printf(printBuffer);
+}
+
+

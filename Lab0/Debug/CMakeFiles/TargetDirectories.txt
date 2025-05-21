@@ -1,0 +1,3 @@
+/home/billcipher/Documents/PenLab/Lab0/Debug/CMakeFiles/Lab0.dir
+/home/billcipher/Documents/PenLab/Lab0/Debug/CMakeFiles/edit_cache.dir
+/home/billcipher/Documents/PenLab/Lab0/Debug/CMakeFiles/rebuild_cache.dir

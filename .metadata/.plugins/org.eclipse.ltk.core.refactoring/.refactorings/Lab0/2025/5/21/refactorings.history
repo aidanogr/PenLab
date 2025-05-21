@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Lab0/Includes/SourceHeaders/general_functions&apos; to &apos;general_functions.h&apos;" description="Rename resource &apos;general_functions&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Includes/SourceHeaders/general_functions" name="general_functions.h" stamp="1747797984237" updateReferences="true"/>
+</session>

@@ -1,0 +1,34 @@
+CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj: \
+ /home/billcipher/Documents/PenLab/Lab0/Sources/bno0xx.c \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/SourceHeaders/bno0xx.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/SourceHeaders/general_functions.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/SourceHeaders/uart.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/device/stm32f303xe.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/core_cm4.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/cmsis_version.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/cmsis_compiler.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/cmsis_gcc.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/mpu_armv7.h \
+ /home/billcipher/Documents/PenLab/Lab0/Includes/device/system_stm32f3xx.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/stdio.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/newlib-nano/newlib.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/config.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/ieeefp.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/cdefs.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include/stdarg.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/reent.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/_types.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/_types.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/lock.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/assert.h \
+ /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/stdio.h
