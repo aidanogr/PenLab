@@ -7,50 +7,28 @@
 
 
 #include "uart.h"
-#include <assert.h>
-
-//bit field that stores what uarts are initialized
-uint8_t initialized_uarts = 0b0;
 
 
+
+///TODO
 // Initialize UART1 (PA9=TX, PA10=RX)
 void UART1_Init(void) {
-    // 1. Enable clocks
-    RCC->AHBENR  |= RCC_AHBENR_GPIOAEN;      // Enable GPIOA
-    RCC->APB2ENR |= RCC_APB2ENR_USART1EN;     // Enable USART1
 
-    // 2. Configure PA9 (TX) and PA10 (RX) as Alternate Function
-    GPIOA->MODER   &= ~(GPIO_MODER_MODER9 | GPIO_MODER_MODER10);  // Clear
-    GPIOA->MODER   |= (2 << GPIO_MODER_MODER9_Pos) | (2 << GPIO_MODER_MODER10_Pos); // AF mode
-    GPIOA->AFR[1]  |= (7 << (4*(9-8))) | (7 << (4*(10-8)));       // AF7 = USART1
-    GPIOA->OSPEEDR |= (3 << (2*9)) | (3 << (2*10));               // High speed
-
-    // 3. Configure USART1 (115200 baud @ 8MHz)
-    USART1->BRR = 0x69;   // 8MHz / 115200 ≈ 69.44 → BRR = 0x4C (76)
-    USART1->CR1 = USART_CR1_UE | USART_CR1_TE | USART_CR1_RE; // Enable UART, TX, RX
-
-    initialized_uarts |= 0b1;
 }
 
 // Send a single byte
 void UART1_Send(uint8_t data) {
-	assert((initialized_uarts & 0b1) == 0b1);
-    while(!(USART1->ISR & USART_ISR_TXE));  // Wait for TX empty
-    USART1->TDR = data;
+
 }
 
 // Receive a byte (blocking, with timeout)
 uint8_t UART1_Receive(void) {
-	assert((initialized_uarts & 0b1) == 0b1);
-    while(!(USART1->ISR & USART_ISR_RXNE)) {}
-    return USART1->RDR;
 }
 
 // Send a string (for debugging)
 void UART1_SendString(char *str) {
     while(*str) {
         UART1_Send(*str++);
-        for(int i = 0; i < 10000; i++){}
     }
 }
 
@@ -67,11 +45,9 @@ void UART2_Init(void) {
     GPIOA->AFR[0] |= (7 << (4*2)) | (7 << (4*3)); // AF7
     USART2->BRR = 69; // 115200 baud @ 8MHz
     USART2->CR1 = USART_CR1_UE | USART_CR1_TE;
-    initialized_uarts |= 0b10;
 }
 
 void UART2_Send(uint8_t data) {
-	assert((initialized_uarts & 0b10) == 0b10);
     while(!(USART2->ISR & USART_ISR_TXE));
     USART2->TDR = data;
 }

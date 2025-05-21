@@ -36,46 +36,22 @@ Archive member included to satisfy reference by file (symbol)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o) (_fflush_r)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
-                              CMakeFiles/Lab0.dir/Sources/uart.c.obj (__assert_func)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o) (fiprintf)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
                               CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj (sprintf)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
                               CMakeFiles/Lab0.dir/Sources/syscalls.c.obj (__errno)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o) (abort)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o) (_svfprintf_r)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o) (_vfprintf_r)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fvwrite.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o) (__sfvwrite_r)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o) (__swbuf_r)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o) (__swsetup_r)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o) (memmove)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o) (raise)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o) (_kill_r)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o) (memchr)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memcpy-stub.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o) (memcpy)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o) (__smakebuf_r)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fstatr.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o) (_fstat_r)
-/home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-isattyr.o)
-                              /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o) (_isatty_r)
 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
                               /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
 
@@ -110,29 +86,67 @@ Discarded input sections
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .text.__fp_lock
                 0x00000000       0x18 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .text.__fp_unlock
                 0x00000000       0x18 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x40 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .text.__sfp    0x00000000       0xa4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .text.__fp_lock_all
                 0x00000000       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .text.__fp_unlock_all
                 0x00000000       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
  .text.__seofread
                 0x00000000        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x26 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
+ .text.memset   0x00000000       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000000       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
@@ -144,12 +158,26 @@ Discarded input sections
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
@@ -157,6 +185,8 @@ Discarded input sections
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_init
+                0x00000000        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
                 0x00000000        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_close
                 0x00000000        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
@@ -182,6 +212,8 @@ Discarded input sections
                 0x00000000        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
  .bss.__lock___atexit_recursive_mutex
                 0x00000000        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
@@ -194,7 +226,14 @@ Discarded input sections
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000       0xfc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
  .text.fflush   0x00000000       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
@@ -203,24 +242,26 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
  .data          0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/main.c.obj
+ .text          0x00000000      0x204 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
  .data          0x00000000        0x4 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
  .bss           0x00000000        0x4 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .debug_info    0x00000000      0x69f CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1b4 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .debug_line    0x00000000      0x28d CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .debug_str     0x00000000      0x3d2 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .debug_frame   0x00000000      0x2ac CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
  .data          0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
  .bss           0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
  .data          0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/uart.c.obj
  .data          0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
  .bss           0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
  .data          0x00000000        0x0 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
- .text.__assert
-                0x00000000        0xa /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
- .text._fprintf_r
-                0x00000000       0x1a /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
@@ -229,59 +270,17 @@ Discarded input sections
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
  .text.__ssprint_r
                 0x00000000       0xf4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
- .text.__sprint_r
-                0x00000000       0x1a /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
- .text.vfprintf
-                0x00000000       0x14 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fvwrite.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fvwrite.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fvwrite.o)
- .text.__sfvwrite_r
-                0x00000000      0x2a4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fvwrite.o)
- .debug_frame   0x00000000       0x3c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fvwrite.o)
- .ARM.attributes
-                0x00000000       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fvwrite.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
- .text.__swbuf  0x00000000       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .text._init_signal_r
-                0x00000000       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .text._signal_r
-                0x00000000       0x30 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .text.__sigtramp_r
-                0x00000000       0x48 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .text.signal   0x00000000       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .text._init_signal
-                0x00000000        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .text.__sigtramp
-                0x00000000       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
  .ARM.extab     0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
@@ -291,15 +290,6 @@ Discarded input sections
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fstatr.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fstatr.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fstatr.o)
- .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-isattyr.o)
- .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-isattyr.o)
- .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-isattyr.o)
  .text          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
  .data          0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
  .bss           0x00000000        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
@@ -366,426 +356,301 @@ LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../li
                 0x08000000                g_pfnVectors
                 0x08000194                        . = ALIGN (0x4)
 
-.text           0x080001a0     0x1abc
+.text           0x080001a0      0xe94
                 0x080001a0                        . = ALIGN (0x4)
  *(.text)
  .text          0x080001a0       0x3c CMakeFiles/Lab0.dir/Sources/main.c.obj
                 0x080001a0                delay
                 0x080001c0                main
- .text          0x080001dc      0x204 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
-                0x080001dc                initialise_monitor_handles
-                0x080001e8                _getpid
-                0x080001f6                _kill
-                0x08000216                _exit
-                0x0800022c                _read
-                0x08000266                _write
-                0x0800029e                _close
-                0x080002b4                _fstat
-                0x080002d2                _isatty
-                0x080002e6                _lseek
-                0x080002fe                _open
-                0x08000318                _wait
-                0x08000336                _unlink
-                0x08000354                _times
-                0x0800036a                _stat
-                0x08000388                _link
-                0x080003a8                _fork
-                0x080003be                _execve
- .text          0x080003e0       0x6c CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
-                0x080003e0                _sbrk
- .text          0x0800044c       0xf0 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
-                0x0800044c                SystemInit
-                0x08000458                SystemCoreClockUpdate
- .text          0x0800053c      0x258 CMakeFiles/Lab0.dir/Sources/uart.c.obj
-                0x0800053c                UART1_Init
-                0x080005c8                UART1_Send
-                0x0800061c                UART1_Receive
-                0x08000668                UART1_SendString
-                0x080006a8                UART2_Init
-                0x08000714                UART2_Send
-                0x08000768                UART2_SendString
- .text          0x08000794       0x1a CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
-                0x08000794                uart_printf
- *fill*         0x080007ae        0x2 
- .text          0x080007b0       0x40 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
-                0x080007b0                initialize_BNO_UART_RVC
-                0x080007bc                print_bno_data
- .text          0x080007f0       0xa0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
-                0x080007f0                memchr
+ .text          0x080001dc       0x6c CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+                0x080001dc                _sbrk
+ .text          0x08000248       0xf0 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+                0x08000248                SystemInit
+                0x08000254                SystemCoreClockUpdate
+ .text          0x08000338      0x1c4 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+                0x08000338                UART1_Init
+                0x080003b0                UART1_Send
+                0x080003e0                UART1_Receive
+                0x08000408                UART1_SendString
+                0x08000448                UART2_Init
+                0x080004a0                UART2_Send
+                0x080004d0                UART2_SendString
+ .text          0x080004fc       0x1a CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
+                0x080004fc                uart_printf
+ *fill*         0x08000516        0x2 
+ .text          0x08000518       0x40 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+                0x08000518                initialize_BNO_UART_RVC
+                0x08000524                print_bno_data
+ *fill*         0x08000558        0x8 
+ .text          0x08000560       0xa0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
+                0x08000560                memchr
  *(.text*)
  .text.deregister_tm_clones
-                0x08000890       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08000600       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.register_tm_clones
-                0x080008ac       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0800061c       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.__do_global_dtors_aux
-                0x080008d0       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08000640       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.frame_dummy
-                0x080008f8       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
- .text.std      0x0800091c       0x6c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
- .text.stdio_exit_handler
-                0x08000988       0x18 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
- .text.cleanup_stdio
-                0x080009a0       0x40 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
- .text.global_stdio_init.part.0
-                0x080009e0       0x40 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
- .text.__sfp_lock_acquire
-                0x08000a20        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
-                0x08000a20                __sfp_lock_acquire
- .text.__sfp_lock_release
-                0x08000a2c        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
-                0x08000a2c                __sfp_lock_release
- .text.__sinit  0x08000a38       0x30 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
-                0x08000a38                __sinit
- .text._fwalk_sglue
-                0x08000a68       0x3c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
-                0x08000a68                _fwalk_sglue
- .text.__sread  0x08000aa4       0x22 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
-                0x08000aa4                __sread
- .text.__swrite
-                0x08000ac6       0x38 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
-                0x08000ac6                __swrite
- .text.__sseek  0x08000afe       0x26 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
-                0x08000afe                __sseek
- .text.__sclose
-                0x08000b24        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
-                0x08000b24                __sclose
- .text.memset   0x08000b2c       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
-                0x08000b2c                memset
- .text._close_r
-                0x08000b3c       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
-                0x08000b3c                _close_r
- .text._lseek_r
-                0x08000b5c       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
-                0x08000b5c                _lseek_r
- .text._read_r  0x08000b80       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
-                0x08000b80                _read_r
- .text._write_r
-                0x08000ba4       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
-                0x08000ba4                _write_r
+                0x08000668       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.__libc_init_array
-                0x08000bc8       0x48 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
-                0x08000bc8                __libc_init_array
- .text.__retarget_lock_init_recursive
-                0x08000c10        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
-                0x08000c10                __retarget_lock_init_recursive
+                0x0800068c       0x48 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
+                0x0800068c                __libc_init_array
  .text.__retarget_lock_acquire_recursive
-                0x08000c12        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
-                0x08000c12                __retarget_lock_acquire_recursive
+                0x080006d4        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
+                0x080006d4                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x08000c14        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
-                0x08000c14                __retarget_lock_release_recursive
- *fill*         0x08000c16        0x2 
- .text._free_r  0x08000c18       0x94 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
-                0x08000c18                _free_r
+                0x080006d6        0x2 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
+                0x080006d6                __retarget_lock_release_recursive
+ .text._free_r  0x080006d8       0x94 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
+                0x080006d8                _free_r
  .text.sbrk_aligned
-                0x08000cac       0x44 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
+                0x0800076c       0x44 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
  .text._malloc_r
-                0x08000cf0      0x100 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
-                0x08000cf0                _malloc_r
+                0x080007b0      0x100 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
+                0x080007b0                _malloc_r
  .text.__malloc_lock
-                0x08000df0        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
-                0x08000df0                __malloc_lock
+                0x080008b0        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
+                0x080008b0                __malloc_lock
  .text.__malloc_unlock
-                0x08000dfc        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
-                0x08000dfc                __malloc_unlock
- .text.__sflush_r
-                0x08000e08       0xfc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
-                0x08000e08                __sflush_r
- .text._fflush_r
-                0x08000f04       0x50 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
-                0x08000f04                _fflush_r
- .text._sbrk_r  0x08000f54       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
-                0x08000f54                _sbrk_r
+                0x080008bc        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
+                0x080008bc                __malloc_unlock
+ .text._sbrk_r  0x080008c8       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+                0x080008c8                _sbrk_r
  .text.Reset_Handler
-                0x08000f74       0x50 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
-                0x08000f74                Reset_Handler
+                0x080008e8       0x50 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
+                0x080008e8                Reset_Handler
  .text.Default_Handler
-                0x08000fc4        0x2 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
-                0x08000fc4                TIM8_TRG_COM_IRQHandler
-                0x08000fc4                TIM8_CC_IRQHandler
-                0x08000fc4                DebugMon_Handler
-                0x08000fc4                DMA1_CH4_IRQHandler
-                0x08000fc4                SPI4_IRQHandler
-                0x08000fc4                TIM1_CC_IRQHandler
-                0x08000fc4                HardFault_Handler
-                0x08000fc4                USB_HP_IRQHandler
-                0x08000fc4                I2C2_EV_EXTI24_IRQHandler
-                0x08000fc4                SysTick_Handler
-                0x08000fc4                USB_WKUP_EXTI_IRQHandler
-                0x08000fc4                PVD_IRQHandler
-                0x08000fc4                UART4_EXTI34_IRQHandler
-                0x08000fc4                TAMP_STAMP_IRQHandler
-                0x08000fc4                PendSV_Handler
-                0x08000fc4                NMI_Handler
-                0x08000fc4                EXTI3_IRQHandler
-                0x08000fc4                I2C3_ER_IRQHandler
-                0x08000fc4                TIM6_DACUNDER_IRQHandler
-                0x08000fc4                USB_HP_CAN_TX_IRQHandler
-                0x08000fc4                EXTI0_IRQHandler
-                0x08000fc4                DMA2_CH1_IRQHandler
-                0x08000fc4                TIM1_UP_TIM16_IRQHandler
-                0x08000fc4                UsageFault_Handler
-                0x08000fc4                ADC1_2_IRQHandler
-                0x08000fc4                SPI1_IRQHandler
-                0x08000fc4                CAN_SCE_IRQHandler
-                0x08000fc4                DMA1_CH7_IRQHandler
-                0x08000fc4                TIM8_UP_IRQHandler
-                0x08000fc4                COMP456_IRQHandler
-                0x08000fc4                DMA1_CH6_IRQHandler
-                0x08000fc4                TIM20_TRG_COM_IRQHandler
-                0x08000fc4                ADC3_IRQHandler
-                0x08000fc4                TIM4_IRQHandler
-                0x08000fc4                CAN_RX1_IRQHandler
-                0x08000fc4                USART1_EXTI25_IRQHandler
-                0x08000fc4                DMA2_CH5_IRQHandler
-                0x08000fc4                I2C1_EV_EXTI23_IRQHandler
-                0x08000fc4                DMA1_CH3_IRQHandler
-                0x08000fc4                TIM3_IRQHandler
-                0x08000fc4                RCC_IRQHandler
-                0x08000fc4                TIM20_UP_IRQHandler
-                0x08000fc4                Default_Handler
-                0x08000fc4                EXTI15_10_IRQHandler
-                0x08000fc4                USART2_EXTI26_IRQHandler
-                0x08000fc4                USART3_EXTI28_IRQHandler
-                0x08000fc4                TIM7_IRQHandler
-                0x08000fc4                I2C3_EV_IRQHandler
-                0x08000fc4                EXTI9_5_IRQHandler
-                0x08000fc4                DMA1_CH2_IRQHandler
-                0x08000fc4                RTC_WKUP_IRQHandler
-                0x08000fc4                SPI2_IRQHandler
-                0x08000fc4                DMA1_CH1_IRQHandler
-                0x08000fc4                USB_LP_CAN_RX0_IRQHandler
-                0x08000fc4                MemManage_Handler
-                0x08000fc4                COMP123_IRQHandler
-                0x08000fc4                SVC_Handler
-                0x08000fc4                USB_LP_IRQHandler
-                0x08000fc4                EXTI4_IRQHandler
-                0x08000fc4                TIM1_TRG_COM_TIM17_IRQHandler
-                0x08000fc4                ADC4_IRQHandler
-                0x08000fc4                WWDG_IRQHandler
-                0x08000fc4                TIM2_IRQHandler
-                0x08000fc4                COMP7_IRQHandler
-                0x08000fc4                EXTI1_IRQHandler
-                0x08000fc4                RTCAlarm_IRQHandler
-                0x08000fc4                UART5_EXTI35_IRQHandler
-                0x08000fc4                TIM20_BRK_IRQHandler
-                0x08000fc4                I2C2_ER_IRQHandler
-                0x08000fc4                TIM8_BRK_IRQHandler
-                0x08000fc4                FLASH_IRQHandler
-                0x08000fc4                TIM20_CC_IRQHandler
-                0x08000fc4                BusFault_Handler
-                0x08000fc4                SPI3_IRQHandler
-                0x08000fc4                DMA2_CH3_IRQHandler
-                0x08000fc4                DMA2_CH2_IRQHandler
-                0x08000fc4                I2C1_ER_IRQHandler
-                0x08000fc4                FMC_IRQHandler
-                0x08000fc4                DMA1_CH5_IRQHandler
-                0x08000fc4                DMA2_CH4_IRQHandler
-                0x08000fc4                USB_WKUP_IRQHandler
-                0x08000fc4                EXTI2_TSC_IRQHandler
-                0x08000fc4                TIM1_BRK_TIM15_IRQHandler
- *fill*         0x08000fc6        0x2 
- .text.__assert_func
-                0x08000fc8       0x3c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
-                0x08000fc8                __assert_func
- .text.fprintf  0x08001004       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
-                0x08001004                fprintf
-                0x08001004                fiprintf
- .text.sprintf  0x08001028       0x44 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
-                0x08001028                sprintf
-                0x08001028                siprintf
- .text.__errno  0x0800106c        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
-                0x0800106c                __errno
- .text.abort    0x08001078        0xe /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o)
-                0x08001078                abort
+                0x08000938        0x2 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
+                0x08000938                TIM8_TRG_COM_IRQHandler
+                0x08000938                TIM8_CC_IRQHandler
+                0x08000938                DebugMon_Handler
+                0x08000938                DMA1_CH4_IRQHandler
+                0x08000938                SPI4_IRQHandler
+                0x08000938                TIM1_CC_IRQHandler
+                0x08000938                HardFault_Handler
+                0x08000938                USB_HP_IRQHandler
+                0x08000938                I2C2_EV_EXTI24_IRQHandler
+                0x08000938                SysTick_Handler
+                0x08000938                USB_WKUP_EXTI_IRQHandler
+                0x08000938                PVD_IRQHandler
+                0x08000938                UART4_EXTI34_IRQHandler
+                0x08000938                TAMP_STAMP_IRQHandler
+                0x08000938                PendSV_Handler
+                0x08000938                NMI_Handler
+                0x08000938                EXTI3_IRQHandler
+                0x08000938                I2C3_ER_IRQHandler
+                0x08000938                TIM6_DACUNDER_IRQHandler
+                0x08000938                USB_HP_CAN_TX_IRQHandler
+                0x08000938                EXTI0_IRQHandler
+                0x08000938                DMA2_CH1_IRQHandler
+                0x08000938                TIM1_UP_TIM16_IRQHandler
+                0x08000938                UsageFault_Handler
+                0x08000938                ADC1_2_IRQHandler
+                0x08000938                SPI1_IRQHandler
+                0x08000938                CAN_SCE_IRQHandler
+                0x08000938                DMA1_CH7_IRQHandler
+                0x08000938                TIM8_UP_IRQHandler
+                0x08000938                COMP456_IRQHandler
+                0x08000938                DMA1_CH6_IRQHandler
+                0x08000938                TIM20_TRG_COM_IRQHandler
+                0x08000938                ADC3_IRQHandler
+                0x08000938                TIM4_IRQHandler
+                0x08000938                CAN_RX1_IRQHandler
+                0x08000938                USART1_EXTI25_IRQHandler
+                0x08000938                DMA2_CH5_IRQHandler
+                0x08000938                I2C1_EV_EXTI23_IRQHandler
+                0x08000938                DMA1_CH3_IRQHandler
+                0x08000938                TIM3_IRQHandler
+                0x08000938                RCC_IRQHandler
+                0x08000938                TIM20_UP_IRQHandler
+                0x08000938                Default_Handler
+                0x08000938                EXTI15_10_IRQHandler
+                0x08000938                USART2_EXTI26_IRQHandler
+                0x08000938                USART3_EXTI28_IRQHandler
+                0x08000938                TIM7_IRQHandler
+                0x08000938                I2C3_EV_IRQHandler
+                0x08000938                EXTI9_5_IRQHandler
+                0x08000938                DMA1_CH2_IRQHandler
+                0x08000938                RTC_WKUP_IRQHandler
+                0x08000938                SPI2_IRQHandler
+                0x08000938                DMA1_CH1_IRQHandler
+                0x08000938                USB_LP_CAN_RX0_IRQHandler
+                0x08000938                MemManage_Handler
+                0x08000938                COMP123_IRQHandler
+                0x08000938                SVC_Handler
+                0x08000938                USB_LP_IRQHandler
+                0x08000938                EXTI4_IRQHandler
+                0x08000938                TIM1_TRG_COM_TIM17_IRQHandler
+                0x08000938                ADC4_IRQHandler
+                0x08000938                WWDG_IRQHandler
+                0x08000938                TIM2_IRQHandler
+                0x08000938                COMP7_IRQHandler
+                0x08000938                EXTI1_IRQHandler
+                0x08000938                RTCAlarm_IRQHandler
+                0x08000938                UART5_EXTI35_IRQHandler
+                0x08000938                TIM20_BRK_IRQHandler
+                0x08000938                I2C2_ER_IRQHandler
+                0x08000938                TIM8_BRK_IRQHandler
+                0x08000938                FLASH_IRQHandler
+                0x08000938                TIM20_CC_IRQHandler
+                0x08000938                BusFault_Handler
+                0x08000938                SPI3_IRQHandler
+                0x08000938                DMA2_CH3_IRQHandler
+                0x08000938                DMA2_CH2_IRQHandler
+                0x08000938                I2C1_ER_IRQHandler
+                0x08000938                FMC_IRQHandler
+                0x08000938                DMA1_CH5_IRQHandler
+                0x08000938                DMA2_CH4_IRQHandler
+                0x08000938                USB_WKUP_IRQHandler
+                0x08000938                EXTI2_TSC_IRQHandler
+                0x08000938                TIM1_BRK_TIM15_IRQHandler
+ *fill*         0x0800093a        0x2 
+ .text.sprintf  0x0800093c       0x44 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
+                0x0800093c                sprintf
+                0x0800093c                siprintf
+ .text.__errno  0x08000980        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
+                0x08000980                __errno
  .text.__ssputs_r
-                0x08001086       0xc0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
-                0x08001086                __ssputs_r
- *fill*         0x08001146        0x2 
+                0x0800098c       0xc0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
+                0x0800098c                __ssputs_r
  .text._svfprintf_r
-                0x08001148      0x1f8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
-                0x08001148                _svfprintf_r
-                0x08001148                _svfiprintf_r
- .text.__sfputc_r
-                0x08001340       0x2a /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
- .text.__sfputs_r
-                0x0800136a       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
-                0x0800136a                __sfputs_r
- *fill*         0x0800138e        0x2 
- .text._vfprintf_r
-                0x08001390      0x230 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
-                0x08001390                _vfiprintf_r
-                0x08001390                _vfprintf_r
+                0x08000a4c      0x1f8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
+                0x08000a4c                _svfprintf_r
+                0x08000a4c                _svfiprintf_r
  .text._printf_common
-                0x080015c0       0xda /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
-                0x080015c0                _printf_common
- *fill*         0x0800169a        0x2 
+                0x08000c44       0xda /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08000c44                _printf_common
+ *fill*         0x08000d1e        0x2 
  .text._printf_i
-                0x0800169c      0x240 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
-                0x0800169c                _printf_i
- .text.__swbuf_r
-                0x080018dc       0x7c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
-                0x080018dc                __swbuf_r
- .text.__swsetup_r
-                0x08001958       0xa8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o)
-                0x08001958                __swsetup_r
- .text.memmove  0x08001a00       0x32 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
-                0x08001a00                memmove
- .text._raise_r
-                0x08001a32       0x50 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
-                0x08001a32                _raise_r
- *fill*         0x08001a82        0x2 
- .text.raise    0x08001a84       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
-                0x08001a84                raise
- .text._kill_r  0x08001a94       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
-                0x08001a94                _kill_r
- .text._getpid_r
-                0x08001ab8        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
-                0x08001ab8                _getpid_r
- .text.memcpy   0x08001abc       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memcpy-stub.o)
-                0x08001abc                memcpy
+                0x08000d20      0x240 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x08000d20                _printf_i
+ .text.memmove  0x08000f60       0x32 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
+                0x08000f60                memmove
+ .text.memcpy   0x08000f92       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memcpy-stub.o)
+                0x08000f92                memcpy
  .text._realloc_r
-                0x08001ad8       0x5c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
-                0x08001ad8                _realloc_r
- .text.__swhatbuf_r
-                0x08001b34       0x48 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
-                0x08001b34                __swhatbuf_r
- .text.__smakebuf_r
-                0x08001b7c       0x72 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
-                0x08001b7c                __smakebuf_r
- *fill*         0x08001bee        0x2 
- .text._fstat_r
-                0x08001bf0       0x24 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fstatr.o)
-                0x08001bf0                _fstat_r
- .text._isatty_r
-                0x08001c14       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-isattyr.o)
-                0x08001c14                _isatty_r
+                0x08000fae       0x5c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
+                0x08000fae                _realloc_r
  .text._malloc_usable_size_r
-                0x08001c34       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
-                0x08001c34                _malloc_usable_size_r
+                0x0800100a       0x10 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
+                0x0800100a                _malloc_usable_size_r
  *(.glue_7)
- .glue_7        0x08001c44        0x0 linker stubs
+ .glue_7        0x0800101a        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08001c44        0x0 linker stubs
+ .glue_7t       0x0800101a        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08001c44        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *fill*         0x0800101a        0x2 
+ .eh_frame      0x0800101c        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  *(.init)
- .init          0x08001c44        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
-                0x08001c44                _init
- .init          0x08001c48        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+ .init          0x0800101c        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+                0x0800101c                _init
+ .init          0x08001020        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
  *(.fini)
- .fini          0x08001c50        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
-                0x08001c50                _fini
- .fini          0x08001c54        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
-                0x08001c5c                        . = ALIGN (0x4)
-                0x08001c5c                        _etext = .
+ .fini          0x08001028        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+                0x08001028                _fini
+ .fini          0x0800102c        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+                0x08001034                        . = ALIGN (0x4)
+                0x08001034                        _etext = .
 
-.vfp11_veneer   0x08001c5c        0x0
- .vfp11_veneer  0x08001c5c        0x0 linker stubs
+.vfp11_veneer   0x08001034        0x0
+ .vfp11_veneer  0x08001034        0x0 linker stubs
 
-.v4_bx          0x08001c5c        0x0
- .v4_bx         0x08001c5c        0x0 linker stubs
+.v4_bx          0x08001034        0x0
+ .v4_bx         0x08001034        0x0 linker stubs
 
-.iplt           0x08001c5c        0x0
- .iplt          0x08001c5c        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.iplt           0x08001034        0x0
+ .iplt          0x08001034        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
-.rodata         0x08001c5c      0x144
-                0x08001c5c                        . = ALIGN (0x4)
+.rodata         0x08001034       0x60
+                0x08001034                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x08001c5c        0xc CMakeFiles/Lab0.dir/Sources/main.c.obj
- .rodata        0x08001c68       0x18 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
-                0x08001c68                AHBPrescTable
-                0x08001c78                APBPrescTable
- .rodata        0x08001c80       0xa7 CMakeFiles/Lab0.dir/Sources/uart.c.obj
- *fill*         0x08001d27        0x1 
- .rodata        0x08001d28        0x6 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+ .rodata        0x08001034        0xc CMakeFiles/Lab0.dir/Sources/main.c.obj
+ .rodata        0x08001040       0x18 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+                0x08001040                AHBPrescTable
+                0x08001050                APBPrescTable
+ .rodata        0x08001058        0x6 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
  *(.rodata*)
- .rodata.__assert_func.str1.1
-                0x08001d2e       0x6f /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
-                                 0x3d (size before relaxing)
  .rodata._svfprintf_r.str1.1
-                0x08001d9d       0x11 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
- .rodata._vfprintf_r.str1.1
-                0x08001d9d       0x11 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
+                0x0800105e       0x33 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
+                                 0x11 (size before relaxing)
  .rodata._printf_i.str1.1
-                0x08001d9d       0x22 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
-                0x08001dc0                        . = ALIGN (0x4)
- *fill*         0x08001d9d        0x3 
+                0x08001091       0x22 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x080010b4                        . = ALIGN (0x4)
+ *fill*         0x08001091        0x3 
 
-.ARM.extab      0x08001da0        0x0
-                0x08001da0                        . = ALIGN (0x4)
+.ARM.extab      0x08001094        0x0
+                0x08001094                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08001da0                        . = ALIGN (0x4)
+                0x08001094                        . = ALIGN (0x4)
 
-.ARM            0x08001da0        0x8
-                0x08001da0                        . = ALIGN (0x4)
-                0x08001da0                        __exidx_start = .
+.ARM            0x08001094        0x8
+                0x08001094                        . = ALIGN (0x4)
+                0x08001094                        __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x08001da0        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
-                0x08001da8                        __exidx_end = .
-                0x08001da8                        . = ALIGN (0x4)
+ .ARM.exidx     0x08001094        0x8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
+                0x0800109c                        __exidx_end = .
+                0x0800109c                        . = ALIGN (0x4)
 
-.preinit_array  0x08001da8        0x0
-                0x08001da8                        . = ALIGN (0x4)
-                0x08001da8                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0800109c        0x0
+                0x0800109c                        . = ALIGN (0x4)
+                0x0800109c                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08001da8                        PROVIDE (__preinit_array_end = .)
-                0x08001da8                        . = ALIGN (0x4)
+                0x0800109c                        PROVIDE (__preinit_array_end = .)
+                0x0800109c                        . = ALIGN (0x4)
 
-.init_array     0x08001da8        0x4
-                0x08001da8                        . = ALIGN (0x4)
-                0x08001da8                        PROVIDE (__init_array_start = .)
+.init_array     0x0800109c        0x4
+                0x0800109c                        . = ALIGN (0x4)
+                0x0800109c                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08001da8        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
-                0x08001dac                        PROVIDE (__init_array_end = .)
-                0x08001dac                        . = ALIGN (0x4)
+ .init_array    0x0800109c        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080010a0                        PROVIDE (__init_array_end = .)
+                0x080010a0                        . = ALIGN (0x4)
 
-.fini_array     0x08001dac        0x4
-                0x08001dac                        . = ALIGN (0x4)
+.fini_array     0x080010a0        0x4
+                0x080010a0                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08001dac        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .fini_array    0x080010a0        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x08001db0                        . = ALIGN (0x4)
-                0x08001db0                        _sidata = LOADADDR (.data)
+                0x080010a4                        . = ALIGN (0x4)
+                0x080010a4                        _sidata = LOADADDR (.data)
 
-.rel.dyn        0x08001db0        0x0
- .rel.iplt      0x08001db0        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.rel.dyn        0x080010a4        0x0
+ .rel.iplt      0x080010a4        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
-.data           0x20000000       0x60 load address 0x08001db0
+.data           0x20000000       0x54 load address 0x080010a4
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
  .data          0x20000000        0x4 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
                 0x20000000                SystemCoreClock
  *(.data*)
- .data.__sglue  0x20000004        0xc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
-                0x20000004                __sglue
  .data._impure_ptr
-                0x20000010        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-impure.o)
-                0x20000010                _impure_ptr
+                0x20000004        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-impure.o)
+                0x20000004                _impure_ptr
  .data._impure_data
-                0x20000014       0x4c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-impure.o)
-                0x20000014                _impure_data
+                0x20000008       0x4c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-impure.o)
+                0x20000008                _impure_data
  *(.RamFunc)
  *(.RamFunc*)
-                0x20000060                        . = ALIGN (0x4)
-                0x20000060                        _edata = .
-                0x08001e10                        _siccmram = LOADADDR (.ccmram)
+                0x20000054                        . = ALIGN (0x4)
+                0x20000054                        _edata = .
+                0x080010f8                        _siccmram = LOADADDR (.ccmram)
 
 .tm_clone_table
-                0x20000060        0x0 load address 0x08001e10
+                0x20000054        0x0 load address 0x080010f8
  .tm_clone_table
-                0x20000060        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000054        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .tm_clone_table
-                0x20000060        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+                0x20000054        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
 
-.igot.plt       0x20000060        0x0 load address 0x08001e10
- .igot.plt      0x20000060        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.igot.plt       0x20000054        0x0 load address 0x080010f8
+ .igot.plt      0x20000054        0x0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
-.ccmram         0x10000000        0x0 load address 0x08001e10
+.ccmram         0x10000000        0x0 load address 0x080010f8
                 0x10000000                        . = ALIGN (0x4)
                 0x10000000                        _sccmram = .
  *(.ccmram)
@@ -794,57 +659,49 @@ LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../li
                 0x10000000                        _eccmram = .
                 0x10000000                        . = ALIGN (0x4)
 
-.bss            0x20000060      0x188
-                0x20000060                        _sbss = .
-                0x20000060                        __bss_start__ = _sbss
+.bss            0x20000054      0x180
+                0x20000054                        _sbss = .
+                0x20000054                        __bss_start__ = _sbss
  *(.bss)
- .bss           0x20000060        0x4 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
- .bss           0x20000064        0x1 CMakeFiles/Lab0.dir/Sources/uart.c.obj
-                0x20000064                initialized_uarts
- *fill*         0x20000065        0x3 
- .bss           0x20000068       0x18 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
-                0x20000068                bno_data
-                0x2000006c                printBuffer
+ .bss           0x20000054        0x4 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+ .bss           0x20000058       0x18 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+                0x20000058                bno_data
+                0x2000005c                printBuffer
  *(.bss*)
  .bss.completed.1
-                0x20000080        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
- *fill*         0x20000081        0x3 
- .bss.object.0  0x20000084       0x18 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
- .bss.__sf      0x2000009c      0x138 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
-                0x2000009c                __sf
- .bss.__stdio_exit_handler
-                0x200001d4        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
-                0x200001d4                __stdio_exit_handler
- .bss.errno     0x200001d8        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
-                0x200001d8                errno
+                0x20000070        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *fill*         0x20000071        0x3 
+ .bss.object.0  0x20000074       0x18 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.__sf      0x2000008c      0x138 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
+                0x2000008c                __sf
+ .bss.errno     0x200001c4        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
+                0x200001c4                errno
  .bss.__lock___malloc_recursive_mutex
-                0x200001dc        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
-                0x200001dc                __lock___malloc_recursive_mutex
- .bss.__lock___sfp_recursive_mutex
-                0x200001dd        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
-                0x200001dd                __lock___sfp_recursive_mutex
- *fill*         0x200001de        0x2 
+                0x200001c8        0x1 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
+                0x200001c8                __lock___malloc_recursive_mutex
+ *fill*         0x200001c9        0x3 
  .bss.__malloc_sbrk_start
-                0x200001e0        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
-                0x200001e0                __malloc_sbrk_start
+                0x200001cc        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
+                0x200001cc                __malloc_sbrk_start
  .bss.__malloc_free_list
-                0x200001e4        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
-                0x200001e4                __malloc_free_list
+                0x200001d0        0x4 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
+                0x200001d0                __malloc_free_list
  *(COMMON)
-                0x200001e8                        . = ALIGN (0x4)
-                0x200001e8                        _ebss = .
-                0x200001e8                        __bss_end__ = _ebss
+                0x200001d4                        . = ALIGN (0x4)
+                0x200001d4                        _ebss = .
+                0x200001d4                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x200001e8      0x600
-                0x200001e8                        . = ALIGN (0x8)
+                0x200001d4      0x604
+                0x200001d8                        . = ALIGN (0x8)
+ *fill*         0x200001d4        0x4 
                 [!provide]                        PROVIDE (end = .)
-                0x200001e8                        PROVIDE (_end = .)
-                0x200003e8                        . = (. + _Min_Heap_Size)
- *fill*         0x200001e8      0x200 
-                0x200007e8                        . = (. + _Min_Stack_Size)
- *fill*         0x200003e8      0x400 
-                0x200007e8                        . = ALIGN (0x8)
+                0x200001d8                        PROVIDE (_end = .)
+                0x200003d8                        . = (. + _Min_Heap_Size)
+ *fill*         0x200001d8      0x200 
+                0x200007d8                        . = (. + _Min_Stack_Size)
+ *fill*         0x200003d8      0x400 
+                0x200007d8                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -861,157 +718,96 @@ LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../li
  .ARM.attributes
                 0x0000004c       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
  .ARM.attributes
-                0x0000007a       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
+                0x0000007a       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
  .ARM.attributes
-                0x000000a8       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
+                0x000000a8       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-impure.o)
  .ARM.attributes
-                0x000000d6       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
+                0x000000d6       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
  .ARM.attributes
-                0x00000104       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
+                0x00000104       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
  .ARM.attributes
-                0x00000132       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
+                0x00000132       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
  .ARM.attributes
-                0x00000160       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-impure.o)
+                0x00000160       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
  .ARM.attributes
-                0x0000018e       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
+                0x0000018e       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
  .ARM.attributes
-                0x000001bc       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
+                0x000001bc       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
  .ARM.attributes
-                0x000001ea       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
+                0x000001ea       0x21 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
  .ARM.attributes
-                0x00000218       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
+                0x0000020b       0x2e CMakeFiles/Lab0.dir/Sources/main.c.obj
  .ARM.attributes
-                0x00000246       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
+                0x00000239       0x2e CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
  .ARM.attributes
-                0x00000274       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
+                0x00000267       0x2e CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
  .ARM.attributes
-                0x000002a2       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
+                0x00000295       0x2e CMakeFiles/Lab0.dir/Sources/uart.c.obj
  .ARM.attributes
-                0x000002d0       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
+                0x000002c3       0x2e CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
  .ARM.attributes
-                0x000002fe       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
+                0x000002f1       0x2e CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
  .ARM.attributes
-                0x0000032c       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+                0x0000031f       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
  .ARM.attributes
-                0x0000035a       0x21 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
+                0x0000034d       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
  .ARM.attributes
-                0x0000037b       0x2e CMakeFiles/Lab0.dir/Sources/main.c.obj
+                0x0000037b       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
  .ARM.attributes
-                0x000003a9       0x2e CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+                0x000003a9       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x000003d7       0x2e CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+                0x000003d7       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
  .ARM.attributes
-                0x00000405       0x2e CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+                0x00000405       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
  .ARM.attributes
-                0x00000433       0x2e CMakeFiles/Lab0.dir/Sources/uart.c.obj
+                0x00000421       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memcpy-stub.o)
  .ARM.attributes
-                0x00000461       0x2e CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
+                0x0000044f       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
  .ARM.attributes
-                0x0000048f       0x2e CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+                0x0000047d       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
  .ARM.attributes
-                0x000004bd       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
+                0x000004ab       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
  .ARM.attributes
-                0x000004eb       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
- .ARM.attributes
-                0x00000519       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
- .ARM.attributes
-                0x00000547       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
- .ARM.attributes
-                0x00000575       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o)
- .ARM.attributes
-                0x000005a3       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
- .ARM.attributes
-                0x000005d1       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
- .ARM.attributes
-                0x000005ff       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
- .ARM.attributes
-                0x0000062d       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
- .ARM.attributes
-                0x0000065b       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o)
- .ARM.attributes
-                0x00000689       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
- .ARM.attributes
-                0x000006b7       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .ARM.attributes
-                0x000006e5       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
- .ARM.attributes
-                0x00000713       0x1c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
- .ARM.attributes
-                0x0000072f       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memcpy-stub.o)
- .ARM.attributes
-                0x0000075d       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
- .ARM.attributes
-                0x0000078b       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
- .ARM.attributes
-                0x000007b9       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fstatr.o)
- .ARM.attributes
-                0x000007e7       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-isattyr.o)
- .ARM.attributes
-                0x00000815       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
- .ARM.attributes
-                0x00000843       0x2e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
- .ARM.attributes
-                0x00000871       0x1e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+                0x000004d9       0x1e /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
 OUTPUT(Lab0.elf elf32-littlearm)
 LOAD linker stubs
 LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
 LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libm.a
 LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/libgcc.a
 
-.debug_frame    0x00000000     0x103c
+.debug_frame    0x00000000      0x81c
  .debug_frame   0x00000000      0x144 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-findfp.o)
- .debug_frame   0x00000144       0x34 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fwalk.o)
- .debug_frame   0x00000178       0x88 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-stdio.o)
- .debug_frame   0x00000200       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-memset.o)
- .debug_frame   0x00000220       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-closer.o)
- .debug_frame   0x0000024c       0x38 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
- .debug_frame   0x00000284       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lseekr.o)
- .debug_frame   0x000002b0       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-readr.o)
- .debug_frame   0x000002dc       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-writer.o)
- .debug_frame   0x00000308       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
- .debug_frame   0x00000334       0xb0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
- .debug_frame   0x000003e4       0x38 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
- .debug_frame   0x0000041c       0x50 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
- .debug_frame   0x0000046c       0x30 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
- .debug_frame   0x0000049c       0x5c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-fflush.o)
- .debug_frame   0x000004f8       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
- .debug_frame   0x00000524       0x54 CMakeFiles/Lab0.dir/Sources/main.c.obj
- .debug_frame   0x00000578      0x2ac CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
- .debug_frame   0x00000824       0x34 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
- .debug_frame   0x00000858       0x58 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
- .debug_frame   0x000008b0       0xfc CMakeFiles/Lab0.dir/Sources/uart.c.obj
- .debug_frame   0x000009ac       0x34 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
- .debug_frame   0x000009e0       0x48 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
- .debug_frame   0x00000a28       0x40 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-assert.o)
- .debug_frame   0x00000a68       0x64 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fprintf.o)
- .debug_frame   0x00000acc       0x74 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
- .debug_frame   0x00000b40       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
- .debug_frame   0x00000b60       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-abort.o)
- .debug_frame   0x00000b88       0x90 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
- .debug_frame   0x00000c18       0xa8 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf.o)
- .debug_frame   0x00000cc0       0x60 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
- .debug_frame   0x00000d20       0x40 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wbuf.o)
- .debug_frame   0x00000d60       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-wsetup.o)
- .debug_frame   0x00000d8c       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
- .debug_frame   0x00000db4       0xcc /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signal.o)
- .debug_frame   0x00000e80       0x3c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-signalr.o)
- .debug_frame   0x00000ebc       0x4c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
- .debug_frame   0x00000f08       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memcpy-stub.o)
- .debug_frame   0x00000f30       0x3c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
- .debug_frame   0x00000f6c       0x58 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-makebuf.o)
- .debug_frame   0x00000fc4       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-fstatr.o)
- .debug_frame   0x00000ff0       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-isattyr.o)
- .debug_frame   0x0000101c       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
+ .debug_frame   0x00000144       0x38 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x0000017c       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-init.o)
+ .debug_frame   0x000001a8       0xb0 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000258       0x38 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000290       0x50 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x000002e0       0x30 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000310       0x2c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x0000033c       0x54 CMakeFiles/Lab0.dir/Sources/main.c.obj
+ .debug_frame   0x00000390       0x34 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+ .debug_frame   0x000003c4       0x58 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+ .debug_frame   0x0000041c      0x108 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+ .debug_frame   0x00000524       0x34 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
+ .debug_frame   0x00000558       0x48 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+ .debug_frame   0x000005a0       0x74 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-sprintf.o)
+ .debug_frame   0x00000614       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-errno.o)
+ .debug_frame   0x00000634       0x90 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_frame   0x000006c4       0x60 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000724       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memmove.o)
+ .debug_frame   0x0000074c       0x4c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
+ .debug_frame   0x00000798       0x28 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x000007c0       0x3c /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x000007fc       0x20 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-msizer.o)
 
-.debug_line     0x00000000      0xef9
+.debug_line     0x00000000      0xbcd
  .debug_line    0x00000000       0x7b CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
- .debug_line    0x0000007b      0x1d2 CMakeFiles/Lab0.dir/Sources/main.c.obj
- .debug_line    0x0000024d      0x28d CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
- .debug_line    0x000004da      0x1f6 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
- .debug_line    0x000006d0      0x22a CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
- .debug_line    0x000008fa      0x31a CMakeFiles/Lab0.dir/Sources/uart.c.obj
- .debug_line    0x00000c14       0xc3 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
- .debug_line    0x00000cd7      0x222 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+ .debug_line    0x0000007b      0x1bb CMakeFiles/Lab0.dir/Sources/main.c.obj
+ .debug_line    0x00000236      0x1f6 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+ .debug_line    0x0000042c      0x22a CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+ .debug_line    0x00000656      0x292 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+ .debug_line    0x000008e8       0xc3 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
+ .debug_line    0x000009ab      0x222 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
 
 .debug_line_str
                 0x00000000      0x14b
@@ -1021,54 +817,49 @@ LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../li
  .debug_line_str
                 0x0000014b       0xd7 /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg_nano.a(libc_a-memchr.o)
 
-.debug_info     0x00000000     0x119d
+.debug_info     0x00000000      0xa66
  .debug_info    0x00000000       0x30 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
  .debug_info    0x00000030      0x103 CMakeFiles/Lab0.dir/Sources/main.c.obj
- .debug_info    0x00000133      0x69f CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
- .debug_info    0x000007d2      0x164 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
- .debug_info    0x00000936      0x22b CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
- .debug_info    0x00000b61      0x450 CMakeFiles/Lab0.dir/Sources/uart.c.obj
- .debug_info    0x00000fb1       0xb6 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
- .debug_info    0x00001067      0x136 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+ .debug_info    0x00000133      0x164 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+ .debug_info    0x00000297      0x22b CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+ .debug_info    0x000004c2      0x3b8 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+ .debug_info    0x0000087a       0xb6 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
+ .debug_info    0x00000930      0x136 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
 
-.debug_abbrev   0x00000000      0x76e
+.debug_abbrev   0x00000000      0x58e
  .debug_abbrev  0x00000000       0x24 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
  .debug_abbrev  0x00000024       0xd0 CMakeFiles/Lab0.dir/Sources/main.c.obj
- .debug_abbrev  0x000000f4      0x1b4 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
- .debug_abbrev  0x000002a8       0xba CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
- .debug_abbrev  0x00000362      0x11a CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
- .debug_abbrev  0x0000047c      0x17d CMakeFiles/Lab0.dir/Sources/uart.c.obj
- .debug_abbrev  0x000005f9       0x8c CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
- .debug_abbrev  0x00000685       0xe9 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+ .debug_abbrev  0x000000f4       0xba CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+ .debug_abbrev  0x000001ae      0x11a CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+ .debug_abbrev  0x000002c8      0x151 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+ .debug_abbrev  0x00000419       0x8c CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
+ .debug_abbrev  0x000004a5       0xe9 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
 
-.debug_aranges  0x00000000      0x108
+.debug_aranges  0x00000000       0xe8
  .debug_aranges
                 0x00000000       0x28 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
  .debug_aranges
                 0x00000028       0x20 CMakeFiles/Lab0.dir/Sources/main.c.obj
  .debug_aranges
-                0x00000048       0x20 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
+                0x00000048       0x20 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
  .debug_aranges
-                0x00000068       0x20 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+                0x00000068       0x20 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
  .debug_aranges
-                0x00000088       0x20 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+                0x00000088       0x20 CMakeFiles/Lab0.dir/Sources/uart.c.obj
  .debug_aranges
-                0x000000a8       0x20 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+                0x000000a8       0x20 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
  .debug_aranges
-                0x000000c8       0x20 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
- .debug_aranges
-                0x000000e8       0x20 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+                0x000000c8       0x20 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
 
-.debug_str      0x00000000      0x787
- .debug_str     0x00000000      0x787 CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
+.debug_str      0x00000000      0x51e
+ .debug_str     0x00000000      0x51e CMakeFiles/Lab0.dir/Startup/startup_stm32f303retx.s.obj
                                  0x90 (size before relaxing)
- .debug_str     0x00000787      0x1cc CMakeFiles/Lab0.dir/Sources/main.c.obj
- .debug_str     0x00000787      0x3d2 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
- .debug_str     0x00000787      0x1fe CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
- .debug_str     0x00000787      0x249 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
- .debug_str     0x00000787      0x2d2 CMakeFiles/Lab0.dir/Sources/uart.c.obj
- .debug_str     0x00000787      0x199 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
- .debug_str     0x00000787      0x1e6 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
+ .debug_str     0x0000051e      0x1d1 CMakeFiles/Lab0.dir/Sources/main.c.obj
+ .debug_str     0x0000051e      0x1fe CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
+ .debug_str     0x0000051e      0x249 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
+ .debug_str     0x0000051e      0x2a9 CMakeFiles/Lab0.dir/Sources/uart.c.obj
+ .debug_str     0x0000051e      0x199 CMakeFiles/Lab0.dir/Sources/general_functions.c.obj
+ .debug_str     0x0000051e      0x1e6 CMakeFiles/Lab0.dir/Sources/bno0xx.c.obj
 
 .debug_rnglists
                 0x00000000       0x19
@@ -1078,7 +869,6 @@ LOAD /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/bin/../li
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/Lab0.dir/Sources/main.c.obj
                                  0x46 (size before relaxing)
- .comment       0x00000045       0x46 CMakeFiles/Lab0.dir/Sources/syscalls.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Lab0.dir/Sources/sysmem.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Lab0.dir/Sources/system_stm32f3xx.c.obj
  .comment       0x00000045       0x46 CMakeFiles/Lab0.dir/Sources/uart.c.obj

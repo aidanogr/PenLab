@@ -853,3 +853,63 @@ cmake --build Debug
 23:09:57 **** Incremental Build of configuration Debug for project Lab0 ****
 cmake --build Debug 
 [100%] Built target Lab0
+23:19:59 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/main.c.obj
+[ 22%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   6560	     96	   1904	   8560	   2170	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0
+23:20:27 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[100%] Built target Lab0
+23:21:08 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/main.c.obj
+[ 22%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   6516	     96	   1904	   8516	   2144	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0
+23:21:20 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/main.c.obj
+[ 22%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   6516	     96	   1904	   8516	   2144	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0
+23:22:06 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/uart.c.obj
+[ 22%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   1540	      4	   1564	   3108	    c24	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0
+23:23:00 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/main.c.obj
+[ 22%] Building C object CMakeFiles/Lab0.dir/Sources/uart.c.obj
+[ 33%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   1516	      4	   1564	   3084	    c0c	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0
+23:23:23 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/main.c.obj
+[ 22%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   1544	      4	   1564	   3112	    c28	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0
+23:24:04 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/main.c.obj
+[ 22%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   1516	      4	   1564	   3084	    c0c	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0
+23:24:32 **** Incremental Build of configuration Debug for project Lab0 ****
+cmake --build Debug 
+[ 11%] Building C object CMakeFiles/Lab0.dir/Sources/main.c.obj
+[ 22%] Linking C executable Lab0.elf
+   text	   data	    bss	    dec	    hex	filename
+   4248	     84	   1924	   6256	   1870	/home/billcipher/Documents/PenLab/Lab0/Debug/Lab0.elf
+[100%] Built target Lab0

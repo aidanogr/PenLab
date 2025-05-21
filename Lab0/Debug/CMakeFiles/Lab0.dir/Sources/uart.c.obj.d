@@ -14,9 +14,4 @@ CMakeFiles/Lab0.dir/Sources/uart.c.obj: \
  /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/cmsis_compiler.h \
  /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/cmsis_gcc.h \
  /home/billcipher/Documents/PenLab/Lab0/Includes/cmsis/mpu_armv7.h \
- /home/billcipher/Documents/PenLab/Lab0/Includes/device/system_stm32f3xx.h \
- /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/assert.h \
- /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/_ansi.h \
- /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/newlib-nano/newlib.h \
- /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/sys/config.h \
- /home/billcipher/arm-gnu-toolchain-14.2.rel1-x86_64-arm-none-eabi/arm-none-eabi/include/machine/ieeefp.h
+ /home/billcipher/Documents/PenLab/Lab0/Includes/device/system_stm32f3xx.h
